@@ -1,0 +1,55 @@
+l 0 r 8 mid 4
+l 0 r 4 mid 2
+l 0 r 2 mid 1
+l 0 r 1 mid 0
+In if statement 904 l 0 r 0
+after_left_sum 0 0
+In if statement 40 l 1 r 1
+after_right_sum 1 1
+left_sum 904 right_sum 40 crossing_Sum 0
+after_left_sum 0 1
+In if statement 523 l 2 r 2
+after_right_sum 2 2
+SUM in maxCrossingSum 904
+left_sum 904 right_sum 523 crossing_Sum 904
+after_left_sum 0 2
+l 3 r 4 mid 3
+In if statement 12 l 3 r 3
+after_left_sum 3 3
+In if statement - 335 l 4 r 4
+after_right_sum 4 4
+left_sum 12 right_sum - 335 crossing_Sum 0
+after_right_sum 3 4
+SUM in maxCrossingSum 904
+SUM in maxCrossingSum 944
+SUM in 2nd for loop maxCrossingSum 12
+left_sum 904 right_sum 12 crossing_Sum 956
+after_left_sum 0 4
+l 5 r 8 mid 6
+l 5 r 6 mid 5
+In if statement - 385 l 5 r 5
+after_left_sum 5 5
+In if statement - 124 l 6 r 6
+after_right_sum 6 6
+left_sum - 385 right_sum - 124 crossing_Sum 0
+after_left_sum 5 6
+l 7 r 8 mid 7
+In if statement 481 l 7 r 7
+after_left_sum 7 7
+In if statement - 31 l 8 r 8
+after_right_sum 8 8
+left_sum 481 right_sum - 31 crossing_Sum 0
+after_right_sum 7 8
+SUM in maxCrossingSum - 385
+SUM in 2nd for loop maxCrossingSum 481
+left_sum 0 right_sum 481 crossing_Sum 481
+after_right_sum 5 8
+SUM in maxCrossingSum 904
+SUM in maxCrossingSum 944
+SUM in maxCrossingSum 1467
+SUM in maxCrossingSum 1479
+SUM in 2nd for loop maxCrossingSum - 385
+SUM in 2nd for loop maxCrossingSum - 509
+SUM in 2nd for loop maxCrossingSum - 28
+left_sum 956 right_sum 481 crossing_Sum 1479
+1479
